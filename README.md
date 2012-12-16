@@ -45,7 +45,7 @@ El detalle distintivo de estas notas frente a muchas otras es que su motivación
 
 Es por ello que lejos de cualquier tipo de ego o celo sobre la obra a escribir, nos propongemos y comprometemos a aceptar sugerencias, reescrituras de capítulos y propuestas de nuevos temas y contenidos (reservándonos el derecho de decidir si son o no pertinentes).
 
-Para lograrlo ese ambicioso objetivo, el libro se encuentra disponible  en su versión fuente. Simplemente debés seguir los [lineamientos de pull-request](https://help.github.com/articles/using-pull-requests) de **Github** y podrás cooperar con el contenido del mismo.
+Para lograr ese ambicioso objetivo, el libro se encuentra disponible en su versión fuente. Simplemente debés seguir los [lineamientos de pull-request](https://help.github.com/articles/using-pull-requests) de **Github** y podrás cooperar con el contenido del mismo.
 
 Entre los co-autores mencionados en la obra, se encontrarán todos aquellos que hagan aportes a la misma.
 

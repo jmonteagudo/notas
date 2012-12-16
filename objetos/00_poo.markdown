@@ -6,6 +6,8 @@ La *programación orientada a objetos* es un paradigma de programación cuyos el
 Como *paradigma* es un derivado de la programación estructurada, por el cual se logró que los datos y los métodos que manipulaban esos datos se mantengan juntos en una unidad llamada **objeto**. De esta manera se propuso impedir el manejo de datos *salvo mediante llamadas a los métodos del objeto contenedor de los mismos*.  
 La localidad de los datos es la consecuencia ventajosa obvia, pero la más importante es el componente añadido de mantenibilidad, ya que puede cambiarse la estructura interna de un objeto sin afectar a aquellos que interactúen con él - siempre y cuando no se afecte su interfaz pública.
 
+La orientación a objetos es una técnica para el modelado de Sistemas. Modela el sistema como objetos relacionados que interaccionan, de manera similar a como las personas ven a su entorno.
+Se entiende por sistema tanto un sistema software como un sistema en sentido mas general (por ejemplo una cafetería).
 La ventaja de este paradigma es la posiblidad de representar "el mundo" de la manera mas parecida posible. Un modelo orientado a objetos, será óptimo cuando siga ciertos principios que veresmos mas adelante, pero también cuando represente la realidad de una manera clara y eficiente.
 
 ## Objetos

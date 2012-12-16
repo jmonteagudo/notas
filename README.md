@@ -21,7 +21,9 @@ Bios
 Bios
 
 ### Juan Manuel Monteagudo
-Bios
+Ing. en informática
+Docente
+Líder de proyectos
 
 ### Lucas Videla
 Bios
